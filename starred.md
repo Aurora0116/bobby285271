@@ -103,7 +103,7 @@
 
 ## C 
 
-- [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - (experimental) Convert a nixos derivation into a self-contained binary
+- [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [GNOME/d-spy](https://github.com/GNOME/d-spy) - Read-only mirror of https://gitlab.gnome.org/GNOME/d-spy
@@ -136,7 +136,7 @@
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [wayland-project/weston](https://github.com/wayland-project/weston) - Reference compositor for Wayland (mirror)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [flyfishzy/p7zip](https://github.com/flyfishzy/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
+- [p7zip-project/p7zip](https://github.com/p7zip-project/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [AlynxZhou/wakana](https://github.com/AlynxZhou/wakana) - A Wayland compositer implemention.
@@ -193,6 +193,7 @@
 
 ## C++ 
 
+- [linuxdeepin/linglong](https://github.com/linuxdeepin/linglong) - 
 - [linuxdeepin/dde-session](https://github.com/linuxdeepin/dde-session) - New deepin session, based on systemd and existing projects.
 - [GhostFrankWu/WinHookAll](https://github.com/GhostFrankWu/WinHookAll) - 锁定Windows的鼠标，键盘，并屏蔽Ctrl+Alt+Del等热键 Hook mouse, keyboard and winlogin. 方便笔记本擦键盘
 - [DMarked/DMarked](https://github.com/DMarked/DMarked) - dtk based markdown editor
@@ -1120,7 +1121,7 @@
 ## SCSS 
 
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
-- [acmerindex/acmerindex.github.io](https://github.com/acmerindex/acmerindex.github.io) - The index for acmer group. Licensed under CC BY-NC-SA 4.0
+- [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info) - The index for acmer group. Licensed under CC BY-NC-SA 4.0
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.

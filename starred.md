@@ -502,7 +502,6 @@
 - [45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator) - A Featureful File Browser for Cockpit
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [Gun9niR/Auto-Grade](https://github.com/Gun9niR/Auto-Grade) - 上海交通大学自动评教脚本
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [arcticicestudio/nord-visual-studio-code](https://github.com/arcticicestudio/nord-visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
@@ -535,7 +534,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1762-Stars](https://github.com/RealPeha/This-Repo-Has-1762-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -740,6 +739,7 @@
 
 ## Others 
 
+- [L1Xu4n/-ChatGPT-](https://github.com/L1Xu4n/-ChatGPT-) - 如何将ChatGPT调教成一只猫娘
 - [redbearder/The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS) - The Site Reliability Workbook 站点可靠性工作手册 中文版
 - [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
 - [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
@@ -972,7 +972,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-509-Stars](https://github.com/iBug/This-Repo-Has-509-Stars) - Yes, it's true :heart: This repository has 509 stars.
+- [iBug/This-Repo-Has-511-Stars](https://github.com/iBug/This-Repo-Has-511-Stars) - Yes, it's true :heartpulse: This repository has 511 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1284,6 +1284,7 @@
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [antfu/handle](https://github.com/antfu/handle) - A Chinese Hanzi variation of Wordle - 汉字 Wordle
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) - Run any command you like in a deterministic Nix shell on Linux and macOS.
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [Saul-Mirone/milkdown-vscode](https://github.com/Saul-Mirone/milkdown-vscode) - 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [kidonng/cherry](https://github.com/kidonng/cherry) - 🍒 Collection of handcrafted resources

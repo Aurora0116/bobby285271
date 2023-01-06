@@ -370,7 +370,7 @@
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 - [flokli/nix-casync](https://github.com/flokli/nix-casync) - A more efficient way to store and substitute Nix store paths
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
@@ -972,7 +972,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-511-Stars](https://github.com/iBug/This-Repo-Has-511-Stars) - Yes, it's true :heartpulse: This repository has 511 stars.
+- [iBug/This-Repo-Has-512-Stars](https://github.com/iBug/This-Repo-Has-512-Stars) - Yes, it's true :purple_heart: This repository has 512 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1230,7 +1230,7 @@
 - [tokland/arch-bootstrap](https://github.com/tokland/arch-bootstrap) - Bootstrap a base Arch Linux system
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [Chrysostomus/manjaro-architect](https://github.com/Chrysostomus/manjaro-architect) - Development branch of the Architect Installation Framework
-- [AOSC-Dev/autobuild3](https://github.com/AOSC-Dev/autobuild3) - Multi-backend and extensible packaging toolkit
+- [AOSC-Dev/autobuild3](https://github.com/AOSC-Dev/autobuild3) - AOSC OS packaging toolkit
 - [alucryd/aur](https://github.com/alucryd/aur) - PKGBUILD repository
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [UbuntuBudgie/iso-builder](https://github.com/UbuntuBudgie/iso-builder) - Debian Live configuration and scripts for generating ubuntu based images, forked from elementary OS Terraform

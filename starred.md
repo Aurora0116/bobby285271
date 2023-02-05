@@ -52,6 +52,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
+- [RPM Spec](#rpm-spec)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -59,7 +60,6 @@
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Standard ML](#standard-ml)
 - [Stylus](#stylus)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -112,7 +112,6 @@
 - [ryantm/mmdoc](https://github.com/ryantm/mmdoc) - Minimal Markdown Documentation
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)
 - [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [canokeys/canokey-core](https://github.com/canokeys/canokey-core) - Core implementations of an open-source secure key
 - [nix-community/gnome-session-ctl](https://github.com/nix-community/gnome-session-ctl) - gnome-session-ctl extracted from gnome-session for nixpkgs [maintainer=@jtojnar]
 - [GNOME/gnome-session](https://github.com/GNOME/gnome-session) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-session
@@ -193,6 +192,7 @@
 
 ## C++ 
 
+- [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 - [linuxdeepin/linglong](https://github.com/linuxdeepin/linglong) - 
 - [linuxdeepin/dde-session](https://github.com/linuxdeepin/dde-session) - New deepin session, based on systemd and existing projects.
 - [GhostFrankWu/WinHookAll](https://github.com/GhostFrankWu/WinHookAll) - 锁定Windows的鼠标，键盘，并屏蔽Ctrl+Alt+Del等热键 Hook mouse, keyboard and winlogin. 方便笔记本擦键盘
@@ -358,6 +358,7 @@
 
 ## Go 
 
+- [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage or SSH compatible storage
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [a-wing/filegogo](https://github.com/a-wing/filegogo) - A file transfer tool that can be used in the browser webrtc p2p
@@ -372,7 +373,6 @@
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -403,12 +403,14 @@
 
 ## HTML 
 
+- [woutervdijke/CatGPT](https://github.com/woutervdijke/CatGPT) - What if ChatGPT were a cat?
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [Yue-plus/S-I-C-P](https://github.com/Yue-plus/S-I-C-P) - 
 - [Uahh/LLDD](https://github.com/Uahh/LLDD) - LoveLive推し成分鉴定器
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [corbindavenport/link-cleaner](https://github.com/corbindavenport/link-cleaner) - Progressive Web App for removing tracking code and other variables from web links
 - [yihui/yihui.org](https://github.com/yihui/yihui.org) - Personal website of Yihui Xie
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - 在 DOM 上打乱文字，而非视觉上。
 - [KawaiiZapic/bailan](https://github.com/KawaiiZapic/bailan) - 我用CSS摆烂你的摆烂
 - [plctlab/PLCT-Weekly](https://github.com/plctlab/PLCT-Weekly) - 软件所PLCT实验室在开源领域的不定期简报
@@ -534,7 +536,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [paviliondev/discourse-news](https://github.com/paviliondev/discourse-news) - Adds a news stream to your Discourse instance
-- [RealPeha/This-Repo-Has-1760-Stars](https://github.com/RealPeha/This-Repo-Has-1760-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1766-Stars](https://github.com/RealPeha/This-Repo-Has-1766-Stars) - Yes, it's true :purple_heart:
 - [moesoha/red-packet-2021](https://github.com/moesoha/red-packet-2021) - Soha's 2021 red packet game!
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
@@ -549,7 +551,7 @@
 - [scnu-socoding/scnuoj-2020](https://github.com/scnu-socoding/scnuoj-2020) - 「被淘汰的版本」华南师范大学软件学院在线评测系统
 - [mqycn/huile8](https://github.com/mqycn/huile8) - 英语差等生必备的 vscode 插件，解决 单词不会读、单词不认识的痛点
 - [neruthes/daoshi-zanmei](https://github.com/neruthes/daoshi-zanmei) - 导师赞美
-- [BeautyYuYanli/full-mark-composition-generator](https://github.com/BeautyYuYanli/full-mark-composition-generator) - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
+- [BeautyyuYanli/full-mark-composition-generator](https://github.com/BeautyyuYanli/full-mark-composition-generator) - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
 - [dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it online
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
@@ -631,7 +633,7 @@
 - [wzpan/hexo-generator-search](https://github.com/wzpan/hexo-generator-search) - A plugin to generate search data for Hexo.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
-- [910JQK/linuxbar](https://github.com/910JQK/linuxbar) - A lightweight forum powered by Flask & Peewee. (Development Stopped)
+- [910JQK/linuxbar](https://github.com/910JQK/linuxbar) - 基于 Flask 的仿贴吧轻量级论坛
 
 ## Jupyter Notebook 
 
@@ -732,6 +734,7 @@
 ## Objective-C 
 
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 
 ## Objective-C++ 
 
@@ -739,7 +742,7 @@
 
 ## Others 
 
-- [L1Xu4n/-ChatGPT-](https://github.com/L1Xu4n/-ChatGPT-) - 如何将ChatGPT调教成一只猫娘
+- [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
 - [redbearder/The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS) - The Site Reliability Workbook 站点可靠性工作手册 中文版
 - [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
 - [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
@@ -780,7 +783,6 @@
 - [awesome-iupc2021/awesome-iupc2021](https://github.com/awesome-iupc2021/awesome-iupc2021) - 
 - [KaneGreen/idontwantqqprotect](https://github.com/KaneGreen/idontwantqqprotect) - I don't want QQProtect
 - [gtf35/how-to-check-sign](https://github.com/gtf35/how-to-check-sign) - 如何把签名校验做到极致
-- [akirarika/creamjs](https://github.com/akirarika/creamjs) - 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 - [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font) - 「jf open 粉圓」是基於 Kosugi Maru 改作， 由 justfont 設計師針對台灣日常應用加以優化的開源字型。 歡迎大家自由應用、自由優化、自由改做！
@@ -855,6 +857,7 @@
 - [tanpero/JavaScript-Art-Tour](https://github.com/tanpero/JavaScript-Art-Tour) - 一本从头开始的 JavaScript 书，为了纪念我小学六年级时那段温暖祥和的日子。（请务必参看 README 文件）
 - [hsxfjames/SCNUSE-Beginners-Guide](https://github.com/hsxfjames/SCNUSE-Beginners-Guide) - SCNUSE Beginners’ Guide
 - [archlinuxcn/artworks](https://github.com/archlinuxcn/artworks) - Some artworks, belonging to Arch Linux CN Community.
+- [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 - [martyr-deepin/dde-desktop](https://github.com/martyr-deepin/dde-desktop) - dde-desktop is now a part of dde-file-manager
 - [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
@@ -959,7 +962,7 @@
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) - Custom scripts for mirror jobs
-- [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语编程语言.The Cantonese programming language.
+- [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语編程語言.The Cantonese programming language.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
@@ -973,8 +976,8 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-513-Stars](https://github.com/iBug/This-Repo-Has-513-Stars) - Yes, it's true :yellow_heart: This repository has 513 stars.
-- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/
+- [iBug/This-Repo-Has-514-Stars](https://github.com/iBug/This-Repo-Has-514-Stars) - Yes, it's true :orange_heart: This repository has 514 stars.
+- [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
@@ -1044,6 +1047,10 @@
 - [y894577/Nanhai_Guide](https://github.com/y894577/Nanhai_Guide) - DataStructure Homework
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [Psi57/Archiso](https://github.com/Psi57/Archiso) - 
+
+## RPM Spec 
+
+- [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 
 ## Roff 
 
@@ -1158,7 +1165,6 @@
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [infinisil/nix-store-brute](https://github.com/infinisil/nix-store-brute) - Brute force nix store path prefixes
 - [lah7/gtk3-classic](https://github.com/lah7/gtk3-classic) - Patches to bring back a traditional experience for GTK+3
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [tuna-nixpkgs/nixpkgs](https://github.com/tuna-nixpkgs/nixpkgs) - Nix Packages collection with channels based on the TUNA mirror
 - [sodaliterocks/sodalite](https://github.com/sodaliterocks/sodalite) - 🪨 A Pantheon experience for rpm-ostree
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -1183,7 +1189,7 @@
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [fjudith/docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [spwhitt/nix-zsh-completions](https://github.com/spwhitt/nix-zsh-completions) - ZSH Completions for Nix
+- [nix-community/nix-zsh-completions](https://github.com/nix-community/nix-zsh-completions) - ZSH Completions for Nix
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 - [owtaylor/toolbox-vscode](https://github.com/owtaylor/toolbox-vscode) - Toolbox Visual Studio Code integration
@@ -1247,10 +1253,6 @@
 - [Kyogen/archlive](https://github.com/Kyogen/archlive) - Custom setup for archiso images.
 - [Guotou/Arch-quick-install-and-config](https://github.com/Guotou/Arch-quick-install-and-config) - This program can quick install or config Arcn Linux
 
-## Standard ML 
-
-- [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
-
 ## Stylus 
 
 - [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
@@ -1298,6 +1300,7 @@
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
+- [akirarika/milkio](https://github.com/akirarika/milkio) - 
 - [miao-lang/miao-lang](https://github.com/miao-lang/miao-lang) - 喵语翻译：将人类语言翻译为喵语言。
 - [takayama-lily/vscode-qq](https://github.com/takayama-lily/vscode-qq) - vscode qq extension based on android qq protocol
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 

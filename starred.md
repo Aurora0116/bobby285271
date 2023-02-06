@@ -976,7 +976,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-514-Stars](https://github.com/iBug/This-Repo-Has-514-Stars) - Yes, it's true :orange_heart: This repository has 514 stars.
+- [iBug/This-Repo-Has-517-Stars](https://github.com/iBug/This-Repo-Has-517-Stars) - Yes, it's true :revolving_hearts: This repository has 517 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1056,7 +1056,6 @@
 
 - [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) - 《算法竞赛进阶指南》资源社区
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
-- [fedoradesign/backgrounds](https://github.com/fedoradesign/backgrounds) - A set of default and supplemental wallpapers for Fedora 37
 - [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration and scripts, and patches
 
 ## Ruby 
@@ -1069,6 +1068,7 @@
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- [fedoradesign/backgrounds](https://github.com/fedoradesign/backgrounds) - A set of default and supplemental wallpapers for Fedora 37
 
 ## Rust 
 

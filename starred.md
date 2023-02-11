@@ -570,7 +570,6 @@
 - [Dreamer-Paul/KStart](https://github.com/Dreamer-Paul/KStart) - ☕ 一个简洁轻巧的公共起始页服务
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [maliangnansheng/bbs-ssm](https://github.com/maliangnansheng/bbs-ssm) - 南生论坛基于SSM框架，自适应手机端和电脑端，界面简洁美观，功能完善。演示地址：http://www.nanshengbbs.top
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [ihewro/pure_internet](https://github.com/ihewro/pure_internet) - 纯净互联网，摆脱花边新闻的推荐干扰
@@ -976,7 +975,7 @@
 - [Mego/Seriously](https://github.com/Mego/Seriously) - A golfing language that is probably terrible
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [iBug/This-Repo-Has-517-Stars](https://github.com/iBug/This-Repo-Has-517-Stars) - Yes, it's true :revolving_hearts: This repository has 517 stars.
+- [iBug/This-Repo-Has-518-Stars](https://github.com/iBug/This-Repo-Has-518-Stars) - Yes, it's true :two_hearts: This repository has 518 stars.
 - [rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3) - A book about how to write  OS kernels in Rust easily.
 - [sjtug/mirror-docker-unified](https://github.com/sjtug/mirror-docker-unified) - Infrastructure of SJTUG mirrors
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -1342,6 +1341,7 @@
 
 ## Vala 
 
+- [lenemter/wingpanel-indicator-namarupa](https://github.com/lenemter/wingpanel-indicator-namarupa) - Unofficial Ayatana compatibility layer for Wingpanel
 - [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint) - Check code-style of Vala code files
 - [phase1geo/Annotator](https://github.com/phase1geo/Annotator) - Image annotation for Elementary OS
 - [GNOME/vala-extra-vapis](https://github.com/GNOME/vala-extra-vapis) - Read-only mirror of https://gitlab.gnome.org/GNOME/vala-extra-vapis

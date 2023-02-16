@@ -570,6 +570,7 @@
 - [Dreamer-Paul/KStart](https://github.com/Dreamer-Paul/KStart) - ☕ 一个简洁轻巧的公共起始页服务
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [maliangnansheng/bbs-ssm](https://github.com/maliangnansheng/bbs-ssm) - 南生论坛基于SSM框架，自适应手机端和电脑端，界面简洁美观，功能完善。演示地址：http://www.nanshengbbs.top
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [ihewro/pure_internet](https://github.com/ihewro/pure_internet) - 纯净互联网，摆脱花边新闻的推荐干扰
@@ -649,7 +650,7 @@
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [bmaslakov/kotlin-algorithm-club](https://github.com/bmaslakov/kotlin-algorithm-club) - Algorithms and data structures in Kotlin.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-- [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
+- [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 
 ## Less 
 
@@ -706,7 +707,7 @@
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix [maintainer=@figsoda]
 - [nix-dot-dev/getting-started-devenv-template](https://github.com/nix-dot-dev/getting-started-devenv-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
 - [iosmanthus/nixos-config](https://github.com/iosmanthus/nixos-config) - iosmanthus's nixos configuration
-- [bobby285271/nixos-config](https://github.com/bobby285271/nixos-config) - My NixOS configuation files
+- [bobby285271/nixos-config](https://github.com/bobby285271/nixos-config) - My NixOS configuration files
 - [jonringer/nixos-configurations](https://github.com/jonringer/nixos-configurations) - NixOS configurations that I use
 - [berberman/flakes](https://github.com/berberman/flakes) - Some packages I use on NixOS
 - [nixos-cn/flakes](https://github.com/nixos-cn/flakes) - 
@@ -1055,7 +1056,6 @@
 
 - [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) - 《算法竞赛进阶指南》资源社区
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
-- [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration and scripts, and patches
 
 ## Ruby 
 
@@ -1240,6 +1240,7 @@
 - [alucryd/aur](https://github.com/alucryd/aur) - PKGBUILD repository
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [UbuntuBudgie/iso-builder](https://github.com/UbuntuBudgie/iso-builder) - Debian Live configuration and scripts for generating ubuntu based images, forked from elementary OS Terraform
+- [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration and scripts, and patches
 - [manjaro/iso-profiles](https://github.com/manjaro/iso-profiles) - This is a mirror repo of iso-profiles
 - [linuxdeepin/deepin-icon-theme](https://github.com/linuxdeepin/deepin-icon-theme) - 
 - [vinceliuice/emerald-icon-theme](https://github.com/vinceliuice/emerald-icon-theme) - Fresh and simple personality icon theme
@@ -1287,7 +1288,7 @@
 - [antfu/handle](https://github.com/antfu/handle) - A Chinese Hanzi variation of Wordle - 汉字 Wordle
 - [workflow/nix-shell-action](https://github.com/workflow/nix-shell-action) - Run any command you like in a deterministic Nix shell on Linux and macOS.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [Saul-Mirone/milkdown-vscode](https://github.com/Saul-Mirone/milkdown-vscode) - 
+- [Milkdown/vscode](https://github.com/Milkdown/vscode) - 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [kidonng/cherry](https://github.com/kidonng/cherry) - 🍒 Collection of handcrafted resources
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.

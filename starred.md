@@ -362,7 +362,7 @@
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [a-wing/filegogo](https://github.com/a-wing/filegogo) - A file transfer tool that can be used in the browser webrtc p2p
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
@@ -386,7 +386,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [LanceLRQ/deer-executor](https://github.com/LanceLRQ/deer-executor) - A simple program executor ——  简单到用命令行就能跑起来的代码评测工具
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -428,7 +428,7 @@
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 - [Huxpro/huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate) - Boilerplate of Hux Blog
 - [alexanderussell/progress-for-jekyll](https://github.com/alexanderussell/progress-for-jekyll) - A long-form blogging theme for Jekyll.
-- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - Moon is a minimal, one column jekyll theme.
+- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
 - [codingXiaxw/HappyBirthday](https://github.com/codingXiaxw/HappyBirthday) - Give a blessing to her on my girlfriend's birthday
 - [neoFelhz/hexo-theme-spectre](https://github.com/neoFelhz/hexo-theme-spectre) - A modern, simple & elegant theme for Hexo
 - [jameshamann/jekyll-material-theme](https://github.com/jameshamann/jekyll-material-theme) - A Jekyll Theme based on Material Design using Materialize.
@@ -688,7 +688,6 @@
 - [jonringer/nix-test-staging-next](https://github.com/jonringer/nix-test-staging-next) - Nix file used to validate `staging-next` in Nixpkgs
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
 - [siraben/nix-sudoku](https://github.com/siraben/nix-sudoku) - Sudoku solver in Nix
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [balsoft/nixos-fhs-compat](https://github.com/balsoft/nixos-fhs-compat) - LSB&FHS compatibility for NixOS. Intended for containers and VMs.
 - [oxalica/nixos-config](https://github.com/oxalica/nixos-config) - My nixos configs
 - [cachix/pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.

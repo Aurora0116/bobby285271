@@ -479,7 +479,7 @@
 - [mbientlab/MetaWear-SDK-Android](https://github.com/mbientlab/MetaWear-SDK-Android) - MetaWear Java SDK - Android - Google - Android Studio
 - [caozongpeng/SpringBootBlog](https://github.com/caozongpeng/SpringBootBlog) - 一个基于SpringBoot开发的个人博客。集成了：博客前台，后台管理。
 - [byteblogs168/plumemo](https://github.com/byteblogs168/plumemo) - plumemo 一个简单通用的前后分离的博客系统  后端代码 文档地址
-- [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - 基于 Spring Boot 的文件在线预览项目
+- [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
 - [y894577/SalaryManagementSystem](https://github.com/y894577/SalaryManagementSystem) - 一人全栈系列
 - [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) - A java virus broadcast simulation
 - [FisherWY/ezmall](https://github.com/FisherWY/ezmall) - JavaWeb期末项目整合
